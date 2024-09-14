@@ -1,0 +1,450 @@
+[
+  {
+    "key": "0",
+    "label": "Popular",
+    "children": [
+      {
+        "id": "0",
+        "title": "Canmore",
+        "text": "Flat rentals"
+      },
+      {
+        "id": "1",
+        "title": "Benalmádena",
+        "text": "House rentals"
+      },
+      {
+        "id": "2",
+        "title": "Marbella",
+        "text": "House rentals"
+      },
+      {
+        "id": "3",
+        "title": "Whistler",
+        "text": "Cabin rentals"
+      },
+      {
+        "id": "4",
+        "title": "Vancouver",
+        "text": "Apartment rentals"
+      },
+      {
+        "id": "5",
+        "title": "Banff",
+        "text": "Cabin rentals"
+      },
+      {
+        "id": "6",
+        "title": "Tofino",
+        "text": "Beach house rentals"
+      },
+      {
+        "id": "7",
+        "title": "Jasper",
+        "text": "Mountain lodge rentals"
+      },
+      {
+        "id": "8",
+        "title": "Victoria",
+        "text": "Historic home rentals"
+      },
+      {
+        "id": "9",
+        "title": "Montreal",
+        "text": "City apartment rentals"
+      },
+      {
+        "id": "10",
+        "title": "Quebec City",
+        "text": "Charming cottage rentals"
+      },
+      {
+        "id": "11",
+        "title": "Toronto",
+        "text": "Luxury condo rentals"
+      },
+      {
+        "id": "12",
+        "title": "Ottawa",
+        "text": "Penthouse rentals"
+      },
+      {
+        "id": "13",
+        "title": "Calgary",
+        "text": "Modern loft rentals"
+      },
+      {
+        "id": "14",
+        "title": "Edmonton",
+        "text": "Spacious townhouse rentals"
+      },
+      {
+        "id": "15",
+        "title": "Halifax",
+        "text": "Seaside cottage rentals"
+      },
+      {
+        "id": "16",
+        "title": "Winnipeg",
+        "text": "Cozy cabin rentals"
+      }
+    ]
+  },
+  {
+    "key": "1",
+    "label": "Arts & culture",
+    "children": [
+        {
+          "id": "0",
+          "title": "Museum of Modern Art",
+          "text": "Art exhibitions"
+        },
+        {
+          "id": "1",
+          "title": "Louvre Museum",
+          "text": "World-famous art collections"
+        },
+        {
+          "id": "2",
+          "title": "British Museum",
+          "text": "Ancient artifacts"
+        },
+        {
+          "id": "3",
+          "title": "Guggenheim Museum",
+          "text": "Contemporary art"
+        },
+        {
+          "id": "4",
+          "title": "National Gallery of Art",
+          "text": "Masterpieces from around the world"
+        },
+        {
+          "id": "5",
+          "title": "Hermitage Museum",
+          "text": "Russian art and culture"
+        },
+        {
+          "id": "6",
+          "title": "Prado Museum",
+          "text": "Spanish art"
+        },
+        {
+          "id": "7",
+          "title": "Uffizi Gallery",
+          "text": "Italian Renaissance art"
+        },
+        {
+          "id": "8",
+          "title": "Rijksmuseum",
+          "text": "Dutch Golden Age paintings"
+        },
+        {
+          "id": "9",
+          "title": "National Museum of China",
+          "text": "Chinese history and culture"
+        },
+        {
+          "id": "10",
+          "title": "Tokyo National Museum",
+          "text": "Japanese art and antiquities"
+        },
+        {
+          "id": "11",
+          "title": "State Hermitage Museum",
+          "text": "Art and culture in St. Petersburg"
+        },
+        {
+          "id": "12",
+          "title": "Museum of Fine Arts, Boston",
+          "text": "Art collections from around the world"
+        },
+        {
+          "id": "13",
+          "title": "Metropolitan Museum of Art",
+          "text": "Art and artifacts spanning 5,000 years"
+        }
+    ]
+  },
+  {
+    "key": "2",
+    "label": "Outdoors",
+    "children": [
+        {
+          "id": "0",
+          "title": "Hiking",
+          "text": "Explore nature"
+        },
+        {
+          "id": "1",
+          "title": "Camping",
+          "text": "Outdoor adventure"
+        },
+        {
+          "id": "2",
+          "title": "Fishing",
+          "text": "Catch the big one"
+        },
+        {
+          "id": "3",
+          "title": "Biking",
+          "text": "Ride the trails"
+        },
+        {
+          "id": "4",
+          "title": "Skiing",
+          "text": "Hit the slopes"
+        },
+        {
+          "id": "5",
+          "title": "Swimming",
+          "text": "Cool off in the water"
+        },
+        {
+          "id": "6",
+          "title": "Picnicking",
+          "text": "Enjoy a meal outdoors"
+        }
+      ]
+  },
+  {
+    "key": "3",
+    "label": "Mountains",
+    "children": [
+        {
+          "id": "0",
+          "title": "Rocky Mountains",
+          "text": "Adventure awaits"
+        },
+        {
+          "id": "1",
+          "title": "Himalayas",
+          "text": "Majestic peaks"
+        },
+        {
+          "id": "2",
+          "title": "Andes",
+          "text": "Breathtaking views"
+        },
+        {
+          "id": "3",
+          "title": "Alps",
+          "text": "Ski paradise"
+        },
+        {
+          "id": "4",
+          "title": "Mount Everest",
+          "text": "Ultimate challenge"
+        },
+        {
+          "id": "5",
+          "title": "Kilimanjaro",
+          "text": "Roof of Africa"
+        },
+        {
+          "id": "6",
+          "title": "Yosemite",
+          "text": "Natural wonders"
+        },
+        {
+          "id": "7",
+          "title": "Grand Canyon",
+          "text": "Spectacular views"
+        },
+        {
+          "id": "8",
+          "title": "Great Barrier Reef",
+          "text": "Underwater paradise"
+        },
+        {
+          "id": "9",
+          "title": "Machu Picchu",
+          "text": "Ancient ruins"
+        }
+      ]
+  },
+  {
+    "key": "4",
+    "label": "Beach",
+    "children": [
+        {
+          "id": "0",
+          "title": "Maldives",
+          "text": "Tropical paradise"
+        },
+        {
+          "id": "1",
+          "title": "Bora Bora",
+          "text": "Island getaway"
+        },
+        {
+          "id": "2",
+          "title": "Seychelles",
+          "text": "Exotic beaches"
+        },
+        {
+          "id": "3",
+          "title": "Hawaii",
+          "text": "Volcanic beauty"
+        },
+        {
+          "id": "4",
+          "title": "Bahamas",
+          "text": "Caribbean escape"
+        },
+        {
+          "id": "5",
+          "title": "Phuket",
+          "text": "Tropical paradise"
+        },
+        {
+          "id": "6",
+          "title": "Cancun",
+          "text": "White sand"
+        },
+        {
+          "id": "7",
+          "title": "Maui",
+          "text": "Beach paradise"
+        }
+      ]
+  },
+  {
+    "key": "5",
+    "label": "Unique stays",
+    "children": [
+        {
+          "id": "0",
+          "title": "Artistic Retreat",
+          "text": "Creative inspiration"
+        },
+        {
+          "id": "1",
+          "title": "Coastal Getaway",
+          "text": "Seaside relaxation"
+        },
+        {
+          "id": "2",
+          "title": "Mountain Hideout",
+          "text": "Serene wilderness"
+        },
+        {
+          "id": "3",
+          "title": "Urban Oasis",
+          "text": "City escape"
+        },
+        {
+          "id": "4",
+          "title": "Luxury Villa",
+          "text": "Opulent indulgence"
+        },
+        {
+          "id": "5",
+          "title": "Rustic Cabin",
+          "text": "Quaint charm"
+        },
+        {
+          "id": "6",
+          "title": "Beachfront Paradise",
+          "text": "Sun-kissed bliss"
+        },
+        {
+          "id": "7",
+          "title": "Historic Manor",
+          "text": "Timeless elegance"
+        }
+      ]
+  },
+  {
+    "key": "6",
+    "label": "Categories",
+    "children": [
+        {
+          "id": "0",
+          "title": "Beach Volleyball",
+          "text": "Fun in the sun"
+        },
+        {
+          "id": "1",
+          "title": "Hiking Trails",
+          "text": "Nature exploration"
+        },
+        {
+          "id": "2",
+          "title": "Local Cuisine",
+          "text": "Delicious flavors"
+        },
+        {
+          "id": "3",
+          "title": "Historical Landmarks",
+          "text": "Rich heritage"
+        },
+        {
+          "id": "4",
+          "title": "Art Galleries",
+          "text": "Creative expressions"
+        },
+        {
+          "id": "5",
+          "title": "Shopping Districts",
+          "text": "Retail therapy"
+        },
+        {
+          "id": "6",
+          "title": "Adventure Sports",
+          "text": "Thrilling experiences"
+        },
+        {
+          "id": "7",
+          "title": "Local Festivals",
+          "text": "Vibrant celebrations"
+        }
+      ]
+  },
+  {
+    "key": "7",
+    "label": "Things to do",
+    "children": [
+        {
+          "id": "0",
+          "title": "Exploring Nature",
+          "text": "Outdoor adventure"
+        },
+        {
+          "id": "1",
+          "title": "Cultural Heritage",
+          "text": "Art and history"
+        },
+        {
+          "id": "2",
+          "title": "Thrilling Experiences",
+          "text": "Adventure sports"
+        },
+        {
+          "id": "3",
+          "title": "Culinary Delights",
+          "text": "Local cuisine"
+        },
+        {
+          "id": "4",
+          "title": "Retail Therapy",
+          "text": "Shopping districts"
+        },
+        {
+          "id": "5",
+          "title": "Festive Celebrations",
+          "text": "Local festivals"
+        },
+        {
+          "id": "6",
+          "title": "Artistic Expressions",
+          "text": "Art galleries"
+        },
+        {
+          "id": "7",
+          "title": "Historical Landmarks",
+          "text": "Rich heritage"
+        }
+    ]
+  }
+]

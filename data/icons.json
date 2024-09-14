@@ -1,0 +1,162 @@
+[
+  {
+    "itemId": 0,
+    "icons": "true",
+    "title": "Sleepover at Polly Pocket’s Compact",
+    "host": {
+      "hostName": "Polly Pocket",
+      "hostImgUrl": "https://a0.muscache.com/im/pictures/user/User-583132701/original/2b0c3adc-f9c5-4d35-82dd-a5ecd202762c.jpeg?im_w=240",
+      "hostProfession": "Big adventurer"
+    },
+    "otherInfo": "$120 SGD per guest",
+    "imgUrl": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE3NzY2MTYzNDg4MjE2ODY1Nw%3D%3D/original/a332d020-4315-4f63-af71-444d46474939.png?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE3NzY2MTYzNDg4MjE2ODY1Nw%3D%3D/original/22899932-b8bd-41b2-bd5a-1c913efe4c05.png?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE3NzY2MTYzNDg4MjE2ODY1Nw%3D%3D/original/e1a5e621-291c-42ad-990c-534c453ac1df.png?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE3NzY2MTYzNDg4MjE2ODY1Nw%3D%3D/original/9065b1e9-6b2f-4db7-9032-d39dc53416fb.png?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE3NzY2MTYzNDg4MjE2ODY1Nw%3D%3D/original/c41bc3fa-22af-4d26-b70d-fd522fd96200.png?im_w=1440&im_q=highq"
+    ],
+    "meetInfo": {
+      "startHostYear": "2024",
+      "iconSvg": [
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 .33a15.67 15.67 0 1 1 0 31.34A15.67 15.67 0 0 1 16 .33zm0 2a13.67 13.67 0 1 0 0 27.34 13.67 13.67 0 0 0 0-27.34zm1 3v10.1l8.74 5.04-1 1.73L15 16.58V5.33z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 1a11 11 0 0 1 11 10.7v.3c0 3.7-2.03 7.14-6 10.3v7.03c0 .92-.75 1.67-1.67 1.67h-6.66c-.92 0-1.67-.75-1.67-1.67V22.3c-3.85-3.07-5.87-6.39-6-9.98V12A11 11 0 0 1 16 1zm3 26h-6v2h6v-2zm0-4h-6v2h6v-2zM16 3a9 9 0 0 0-9 8.98v.29c.1 2.9 1.8 5.7 5.17 8.4l.42.33h.4l.01-9.67a3 3 0 0 1 6 0V21h.41l.43-.34c3.36-2.7 5.05-5.48 5.15-8.36l.01-.28v-.27A9 9 0 0 0 16 3zm0 7.33-.12.01a1 1 0 0 0-.88 1V21h2v-9.67a1 1 0 0 0-1-1z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='m20.61 8.21.1.08 3 3a1 1 0 0 1 .08 1.32l-.08.1-18 18a1 1 0 0 1-1.32.08l-.1-.08-3-3a1 1 0 0 1-.08-1.32l.08-.1 18-18a1 1 0 0 1 1.32-.08zM16 14.41 3.41 27 5 28.58 17.59 16zm4-4-2.58 2.6L19 14.58 21.58 12zm6-.41h5v2h-5zm2.3-7.7 1.4 1.4-4 4-1.4-1.4zM22 1v5h-2V1z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M30 4H20c-1.64 0-3.09.8-4 2.03A4.99 4.99 0 0 0 12 4H2a2 2 0 0 0-2 2v19c0 1.1.9 2 2 2h10a3 3 0 0 1 3 3h2a3 3 0 0 1 3-3h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm-4 2v8.61l-2-.66-2 .66V6h4zM15 26a4.98 4.98 0 0 0-3-1H2V6h10a3 3 0 0 1 3 3v17zm15-1H20a4.97 4.97 0 0 0-3 1V9a3 3 0 0 1 3-3v11.39l4-1.34 4 1.34V6h2v19z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M23.02 3a8.3 8.3 0 0 0-5.58 2.44L16 6.88l-1.44-1.44a8.31 8.31 0 0 0-11.79 0 8.3 8.3 0 0 0-2.44 5.9c0 4.92 2.49 8.84 8.04 13.43l.7.58.75.58.77.6.4.3.82.6.86.62.89.63.92.64L16 30.35l1.33-.9 1.06-.73.66-.46.7-.5.85-.62c7.4-5.45 11.07-10.12 11.07-15.8A8.3 8.3 0 0 0 23.33 3zm.31 2a6.31 6.31 0 0 1 6.34 6.33c0 4.3-2.62 8.12-8.01 12.48l-.72.57-.75.58-.79.58-.81.6-.7.49-.65.45-1.24.85-.36-.24-.9-.63-.87-.6-.42-.31-.81-.6-.4-.29-.76-.58-.74-.57c-5.84-4.6-8.4-8.31-8.4-12.78A6.3 6.3 0 0 1 8.66 5c1.67 0 3.27.65 4.48 1.85L16 9.71l2.86-2.86A6.31 6.31 0 0 1 23.33 5z'></path></svg>"
+      ],
+      "hostDesc": [
+        "I spend too much time: Playing mini golf",
+        "Fun fact: I’m a big adventurer and a light packer!",
+        "Most useless skill: Fitting through cracks under the door",
+        "My biography title: Little Woman",
+        "I'm obsessed with: My friends Titch, Pixie… the whole crew!"
+      ]
+    },
+    "detailHTML": "<span>Hi, friends! Sleepover at my place! You in? I’ll be off on a 35th birthday adventure, but my life-sized Slumber Party Fun compact is all yours for the night. I left everything just the way you remember it—from all the way back in ’94! Can you believe it’s been that long?! Anyway, grab your BFFs, because I set up a retro bash that’s sure to be a blast!<br><br><span class='html-title'>What you’ll do</span><br>’90s kids rule at sleepovers. But you already knew that. So I wanted this sleepover to feel like you’re still actually in the ’90s! Just picture it—crafting, throwback snacks, Polaroid cameras… it’s going to be AMAZING. Basically, I turned my Slumber Party Fun compact into a time machine where your imagination can run wild. Because there’s no greater adventure than the one you create for yourself. <br><br>Here’s the 411—let’s do this!<br><br>• I stocked my picnic table with colorful threads, cool charms, and a collection of beads. Use them to express undying love to your bestie like only a ‘90s kid can—with homemade  jewelry. You can even make one for me! Just remember, my wrists are very small.<br> <br>• Try on my most iconic outfits—yes, the ones you used to chew on when you were younger—in my closet. They slip on right over your clothes and are extremely chic. No bite marks, please!<br><br>• Remember when we used to give each other makeovers and gab until morning? Well, my vanity has everything you need to relive that magic. Press-on nails and butterfly hair clips, anyone?!<br><br>• Be kind, unwind, and rewind with a movie marathon on literal video cassettes. Remember those?! The couch pulls out, so snuggle up. BYOB (Bring Your Own Blanket). <br><br>• My compact is stuffed to the brim with all my favorite snacks from the greatest era in snacking history. Ring Pops and Push Pops and Baby Bottle Pops, oh my!<br><br>• At night, embrace the outdoors and camp out under the stars in my Action Park Tent. Whisper secrets, tell ghost stories, and giggle into the night while cozying up in one of the four sleeping bags I left for you.<br><br><span class='html-title'>Other things to note</span><br>My compact doesn’t close because, like me, it’s always open to adventure.</span>"
+  },
+  {
+    "itemId": 1,
+    "icons": "true",
+    "title": "Playdate at Polly Pocket’s Compact",
+    "host": {
+      "hostName": "Polly Pocket",
+      "hostImgUrl": "https://a0.muscache.com/im/pictures/user/User-583132701/original/2b0c3adc-f9c5-4d35-82dd-a5ecd202762c.jpeg?im_w=240",
+      "hostProfession": "Big adventurer"
+    },
+    "otherInfo": "$46 SGD per guest",
+    "imgUrl": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NzE3Nzg1NDA2MjM5NzY2NQ%3D%3D/original/6989d581-3f67-4cd9-8cb6-5f5c226aedc6.png?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NzE3Nzg1NDA2MjM5NzY2NQ%3D%3D/original/b9d8267c-7c34-4265-8e8d-d2cc1fcd95b6.png?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NzE3Nzg1NDA2MjM5NzY2NQ%3D%3D/original/85f23053-8285-4fe9-b0c8-5a6f98e2dbab.png?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NzE3Nzg1NDA2MjM5NzY2NQ%3D%3D/original/d709bdb6-58cf-4b1a-951a-3af4c8c84a1a.png?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE4NzE3Nzg1NDA2MjM5NzY2NQ%3D%3D/original/f292c5ae-6b6d-4bf6-9b93-a88b11f021bb.png?im_w=1440&im_q=highq"
+    ],
+    "meetInfo": {
+      "startHostYear": "2024",
+      "iconSvg": [
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 .33a15.67 15.67 0 1 1 0 31.34A15.67 15.67 0 0 1 16 .33zm0 2a13.67 13.67 0 1 0 0 27.34 13.67 13.67 0 0 0 0-27.34zm1 3v10.1l8.74 5.04-1 1.73L15 16.58V5.33z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 1a11 11 0 0 1 11 10.7v.3c0 3.7-2.03 7.14-6 10.3v7.03c0 .92-.75 1.67-1.67 1.67h-6.66c-.92 0-1.67-.75-1.67-1.67V22.3c-3.85-3.07-5.87-6.39-6-9.98V12A11 11 0 0 1 16 1zm3 26h-6v2h6v-2zm0-4h-6v2h6v-2zM16 3a9 9 0 0 0-9 8.98v.29c.1 2.9 1.8 5.7 5.17 8.4l.42.33h.4l.01-9.67a3 3 0 0 1 6 0V21h.41l.43-.34c3.36-2.7 5.05-5.48 5.15-8.36l.01-.28v-.27A9 9 0 0 0 16 3zm0 7.33-.12.01a1 1 0 0 0-.88 1V21h2v-9.67a1 1 0 0 0-1-1z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='m20.61 8.21.1.08 3 3a1 1 0 0 1 .08 1.32l-.08.1-18 18a1 1 0 0 1-1.32.08l-.1-.08-3-3a1 1 0 0 1-.08-1.32l.08-.1 18-18a1 1 0 0 1 1.32-.08zM16 14.41 3.41 27 5 28.58 17.59 16zm4-4-2.58 2.6L19 14.58 21.58 12zm6-.41h5v2h-5zm2.3-7.7 1.4 1.4-4 4-1.4-1.4zM22 1v5h-2V1z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M30 4H20c-1.64 0-3.09.8-4 2.03A4.99 4.99 0 0 0 12 4H2a2 2 0 0 0-2 2v19c0 1.1.9 2 2 2h10a3 3 0 0 1 3 3h2a3 3 0 0 1 3-3h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm-4 2v8.61l-2-.66-2 .66V6h4zM15 26a4.98 4.98 0 0 0-3-1H2V6h10a3 3 0 0 1 3 3v17zm15-1H20a4.97 4.97 0 0 0-3 1V9a3 3 0 0 1 3-3v11.39l4-1.34 4 1.34V6h2v19z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M23.02 3a8.3 8.3 0 0 0-5.58 2.44L16 6.88l-1.44-1.44a8.31 8.31 0 0 0-11.79 0 8.3 8.3 0 0 0-2.44 5.9c0 4.92 2.49 8.84 8.04 13.43l.7.58.75.58.77.6.4.3.82.6.86.62.89.63.92.64L16 30.35l1.33-.9 1.06-.73.66-.46.7-.5.85-.62c7.4-5.45 11.07-10.12 11.07-15.8A8.3 8.3 0 0 0 23.33 3zm.31 2a6.31 6.31 0 0 1 6.34 6.33c0 4.3-2.62 8.12-8.01 12.48l-.72.57-.75.58-.79.58-.81.6-.7.49-.65.45-1.24.85-.36-.24-.9-.63-.87-.6-.42-.31-.81-.6-.4-.29-.76-.58-.74-.57c-5.84-4.6-8.4-8.31-8.4-12.78A6.3 6.3 0 0 1 8.66 5c1.67 0 3.27.65 4.48 1.85L16 9.71l2.86-2.86A6.31 6.31 0 0 1 23.33 5z'></path></svg>"
+      ],
+      "hostDesc": [
+        "I spend too much time: Playing mini golf",
+        "Fun fact: I’m a big adventurer and a light packer!",
+        "Most useless skill: Fitting through cracks under the door",
+        "My biography title: Little Woman",
+        "I'm obsessed with: My friends Titch, Pixie… the whole crew!"
+      ]
+    },
+    "detailHTML": "<span>Hi, friends! Sleepover at my place! You in? I’ll be off on a 35th birthday adventure, but my life-sized Slumber Party Fun compact is all yours for the night. I left everything just the way you remember it—from all the way back in ’94! Can you believe it’s been that long?! Anyway, grab your BFFs, because I set up a retro bash that’s sure to be a blast!<br><br><span class='html-title'>What you’ll do</span><br>’90s kids rule at sleepovers. But you already knew that. So I wanted this sleepover to feel like you’re still actually in the ’90s! Just picture it—crafting, throwback snacks, Polaroid cameras… it’s going to be AMAZING. Basically, I turned my Slumber Party Fun compact into a time machine where your imagination can run wild. Because there’s no greater adventure than the one you create for yourself. <br><br>Here’s the 411—let’s do this!<br><br>• I stocked my picnic table with colorful threads, cool charms, and a collection of beads. Use them to express undying love to your bestie like only a ‘90s kid can—with homemade  jewelry. You can even make one for me! Just remember, my wrists are very small.<br> <br>• Try on my most iconic outfits—yes, the ones you used to chew on when you were younger—in my closet. They slip on right over your clothes and are extremely chic. No bite marks, please!<br><br>• Remember when we used to give each other makeovers and gab until morning? Well, my vanity has everything you need to relive that magic. Press-on nails and butterfly hair clips, anyone?!<br><br>• Be kind, unwind, and rewind with a movie marathon on literal video cassettes. Remember those?! The couch pulls out, so snuggle up. BYOB (Bring Your Own Blanket). <br><br>• My compact is stuffed to the brim with all my favorite snacks from the greatest era in snacking history. Ring Pops and Push Pops and Baby Bottle Pops, oh my!<br><br>• At night, embrace the outdoors and camp out under the stars in my Action Park Tent. Whisper secrets, tell ghost stories, and giggle into the night while cozying up in one of the four sleeping bags I left for you.<br><br><span class='html-title'>Other things to note</span><br>My compact doesn’t close because, like me, it’s always open to adventure.</span>"
+  },
+  {
+    "itemId": 2,
+    "icons": "true",
+    "title": "Go VIP with Kevin Hart",
+    "host": {
+      "hostName": " Kevin Hart",
+      "hostImgUrl": "https://a0.muscache.com/im/pictures/user/User-571409085/original/5bc91e5a-8b14-4709-96db-74a60dc97da1.jpeg?im_w=240",
+      "hostProfession": "Comedian"
+    },
+    "otherInfo": "$100 SGD per guest",
+    "imgUrl": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NzY0ODgzNzUzNjQzNw%3D%3D/original/1077cfcd-29d5-42b7-adab-19e0b620e492.jpeg?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NzY0ODgzNzUzNjQzNw%3D%3D/original/cc8db640-21c8-41a9-8af1-7ede1eb456ee.jpeg?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NzY0ODgzNzUzNjQzNw%3D%3D/original/23360a01-96e5-4151-8ca5-3d3a7cae65c7.jpeg?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NzY0ODgzNzUzNjQzNw%3D%3D/original/16acfa7e-8ef9-408f-9caa-cc6c335b5fda.jpeg?im_w=1440&im_q=highq",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4NzY0ODgzNzUzNjQzNw%3D%3D/original/d831cd64-053e-44b1-8c19-cf66d91eb5e2.jpeg?im_w=1440&im_q=highq"
+    ],
+    "meetInfo": {
+      "startHostYear": "2024",
+      "iconSvg": [
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 .33a15.67 15.67 0 1 1 0 31.34A15.67 15.67 0 0 1 16 .33zm0 2a13.67 13.67 0 1 0 0 27.34 13.67 13.67 0 0 0 0-27.34zm1 3v10.1l8.74 5.04-1 1.73L15 16.58V5.33z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 1a11 11 0 0 1 11 10.7v.3c0 3.7-2.03 7.14-6 10.3v7.03c0 .92-.75 1.67-1.67 1.67h-6.66c-.92 0-1.67-.75-1.67-1.67V22.3c-3.85-3.07-5.87-6.39-6-9.98V12A11 11 0 0 1 16 1zm3 26h-6v2h6v-2zm0-4h-6v2h6v-2zM16 3a9 9 0 0 0-9 8.98v.29c.1 2.9 1.8 5.7 5.17 8.4l.42.33h.4l.01-9.67a3 3 0 0 1 6 0V21h.41l.43-.34c3.36-2.7 5.05-5.48 5.15-8.36l.01-.28v-.27A9 9 0 0 0 16 3zm0 7.33-.12.01a1 1 0 0 0-.88 1V21h2v-9.67a1 1 0 0 0-1-1z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='m20.61 8.21.1.08 3 3a1 1 0 0 1 .08 1.32l-.08.1-18 18a1 1 0 0 1-1.32.08l-.1-.08-3-3a1 1 0 0 1-.08-1.32l.08-.1 18-18a1 1 0 0 1 1.32-.08zM16 14.41 3.41 27 5 28.58 17.59 16zm4-4-2.58 2.6L19 14.58 21.58 12zm6-.41h5v2h-5zm2.3-7.7 1.4 1.4-4 4-1.4-1.4zM22 1v5h-2V1z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M30 4H20c-1.64 0-3.09.8-4 2.03A4.99 4.99 0 0 0 12 4H2a2 2 0 0 0-2 2v19c0 1.1.9 2 2 2h10a3 3 0 0 1 3 3h2a3 3 0 0 1 3-3h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm-4 2v8.61l-2-.66-2 .66V6h4zM15 26a4.98 4.98 0 0 0-3-1H2V6h10a3 3 0 0 1 3 3v17zm15-1H20a4.97 4.97 0 0 0-3 1V9a3 3 0 0 1 3-3v11.39l4-1.34 4 1.34V6h2v19z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M23.02 3a8.3 8.3 0 0 0-5.58 2.44L16 6.88l-1.44-1.44a8.31 8.31 0 0 0-11.79 0 8.3 8.3 0 0 0-2.44 5.9c0 4.92 2.49 8.84 8.04 13.43l.7.58.75.58.77.6.4.3.82.6.86.62.89.63.92.64L16 30.35l1.33-.9 1.06-.73.66-.46.7-.5.85-.62c7.4-5.45 11.07-10.12 11.07-15.8A8.3 8.3 0 0 0 23.33 3zm.31 2a6.31 6.31 0 0 1 6.34 6.33c0 4.3-2.62 8.12-8.01 12.48l-.72.57-.75.58-.79.58-.81.6-.7.49-.65.45-1.24.85-.36-.24-.9-.63-.87-.6-.42-.31-.81-.6-.4-.29-.76-.58-.74-.57c-5.84-4.6-8.4-8.31-8.4-12.78A6.3 6.3 0 0 1 8.66 5c1.67 0 3.27.65 4.48 1.85L16 9.71l2.86-2.86A6.31 6.31 0 0 1 23.33 5z'></path></svg>"
+      ],
+      "hostDesc": [
+        "Where I went to school: George Washington High School",
+        "My work: Comedian/businessman",
+        "I spend too much time: Working",
+        "Fun fact: I was a nationally competitive swimmer",
+        "Pets: My two dogs"
+      ]
+    },
+    "detailHTML": "<span class='lrl13de atm_kd_19r6f69_24z95b atm_kd_19r6f69_1xbvphn_1oszvuo dir dir-ltr'>For the first time ever, I’m opening the doors to the Coramino Live Lounge—an exclusive, members-only speakeasy where you and a guest will get a front row seat to how I live. This is inner circle stuff. You think I’d open a bottle of Gran Coramino’s finest reposado for any Joe and Nancy off the street? No! (Unless your name is Joe or Nancy, my apologies.) I hope you’re as hyped as I am. See you on the other side of that velvet rope.<br><br><span class='html-title'>What you’ll do</span><br>The Coramino Live Lounge is my baby. It’s a labor of love and a testament to my hard work, because it brings together my two greatest passions—comedy and tequila. (Besides my family, of course. Not trying to get in trouble here.) The vibe is incredible—it’s old school Hollywood meets Kevin Hart. Like a Rat Pack spot if there were more menu options than just Beef Wellington. Come hang with me and share a few laughs (and a few drinks).<br><br>Here’s the Kevin Hart-level VIP treatment you can expect.<br><br>• When you enter through the velvet rope, you’ll be greeted with Gran Coramino’s finest—cristalinos, añejos, and my personal favorite, reposados—all paired with the perfect plant-based appetizer. Just a quick heads up—I will say “flavor profile” no less than fifteen times. I apologize in advance.<br><br>•&nbsp;I’ll personally guide you through a tasting alongside Chai Lee, the 2023 Gran Coramino Bartender of the Year. We’ll hook you up with a tasting card that has details on all three Gran Coramino tequilas, and while you’re reading them, I’m going to steal a reposado right out from under you. Nah, I won’t do that. (I might, though.)<br><br>• Even after the tasting, we’ll have servers walking around all night with our four signature cocktails—The Boss, The Hart, Summer Melon Spritz, and The Mic Drop. I even got a laser to etch the Gran Coramino logo onto the ice cubes. That’s how serious I am about this, people. Lasers!<br><br>• Our live DJ is gonna bring the beat, so you gotta bring the heat. Just make sure you stretch first. I want you to tear it up, just not your ACL.<br><br>•&nbsp;Did you even come if you didn’t snap a pic? Strike a pose for our photographer and let the ‘gram know I’m taller in person, HA!<br><br>• To top it all off, we’ve got a killer lineup of all-star performers straight from my contact list. I’d name drop, but I’m too classy for that. You’ll just have to come and see for yourself.</span>"
+  },
+  {
+    "itemId": 3,
+    "icons": "true",
+    "title": "Join a living room session with Doja",
+    "host": {
+      "hostName": "Doja cat",
+      "hostImgUrl": "https://a0.muscache.com/im/pictures/user/User-570297172/original/7a6f5b15-ae6c-4c70-9f4b-f6edff737387.jpeg?im_w=240",
+      "hostProfession": "Big adventurer"
+    },
+    "otherInfo": "Coming October",
+    "imgUrl": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjMyMzc5Mzc2MTc3OTEzMg%3D%3D/original/01819c16-43a1-4aee-9957-9edce6eb8e16.png?im_w=1440&im_q=highq"
+    ],
+    "meetInfo": {
+      "startHostYear": "2024",
+      "iconSvg": [
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 .33a15.67 15.67 0 1 1 0 31.34A15.67 15.67 0 0 1 16 .33zm0 2a13.67 13.67 0 1 0 0 27.34 13.67 13.67 0 0 0 0-27.34zm1 3v10.1l8.74 5.04-1 1.73L15 16.58V5.33z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 1a11 11 0 0 1 11 10.7v.3c0 3.7-2.03 7.14-6 10.3v7.03c0 .92-.75 1.67-1.67 1.67h-6.66c-.92 0-1.67-.75-1.67-1.67V22.3c-3.85-3.07-5.87-6.39-6-9.98V12A11 11 0 0 1 16 1zm3 26h-6v2h6v-2zm0-4h-6v2h6v-2zM16 3a9 9 0 0 0-9 8.98v.29c.1 2.9 1.8 5.7 5.17 8.4l.42.33h.4l.01-9.67a3 3 0 0 1 6 0V21h.41l.43-.34c3.36-2.7 5.05-5.48 5.15-8.36l.01-.28v-.27A9 9 0 0 0 16 3zm0 7.33-.12.01a1 1 0 0 0-.88 1V21h2v-9.67a1 1 0 0 0-1-1z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='m20.61 8.21.1.08 3 3a1 1 0 0 1 .08 1.32l-.08.1-18 18a1 1 0 0 1-1.32.08l-.1-.08-3-3a1 1 0 0 1-.08-1.32l.08-.1 18-18a1 1 0 0 1 1.32-.08zM16 14.41 3.41 27 5 28.58 17.59 16zm4-4-2.58 2.6L19 14.58 21.58 12zm6-.41h5v2h-5zm2.3-7.7 1.4 1.4-4 4-1.4-1.4zM22 1v5h-2V1z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M30 4H20c-1.64 0-3.09.8-4 2.03A4.99 4.99 0 0 0 12 4H2a2 2 0 0 0-2 2v19c0 1.1.9 2 2 2h10a3 3 0 0 1 3 3h2a3 3 0 0 1 3-3h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm-4 2v8.61l-2-.66-2 .66V6h4zM15 26a4.98 4.98 0 0 0-3-1H2V6h10a3 3 0 0 1 3 3v17zm15-1H20a4.97 4.97 0 0 0-3 1V9a3 3 0 0 1 3-3v11.39l4-1.34 4 1.34V6h2v19z'></path></svg>",
+        "<svg xmlns='http: //www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M23.02 3a8.3 8.3 0 0 0-5.58 2.44L16 6.88l-1.44-1.44a8.31 8.31 0 0 0-11.79 0 8.3 8.3 0 0 0-2.44 5.9c0 4.92 2.49 8.84 8.04 13.43l.7.58.75.58.77.6.4.3.82.6.86.62.89.63.92.64L16 30.35l1.33-.9 1.06-.73.66-.46.7-.5.85-.62c7.4-5.45 11.07-10.12 11.07-15.8A8.3 8.3 0 0 0 23.33 3zm.31 2a6.31 6.31 0 0 1 6.34 6.33c0 4.3-2.62 8.12-8.01 12.48l-.72.57-.75.58-.79.58-.81.6-.7.49-.65.45-1.24.85-.36-.24-.9-.63-.87-.6-.42-.31-.81-.6-.4-.29-.76-.58-.74-.57c-5.84-4.6-8.4-8.31-8.4-12.78A6.3 6.3 0 0 1 8.66 5c1.67 0 3.27.65 4.48 1.85L16 9.71l2.86-2.86A6.31 6.31 0 0 1 23.33 5z'></path></svg>"
+      ],
+      "hostDesc": [
+        "Where I went to school: Cortines School of Visual & Perf Arts",
+        "My work: Artist",
+        "I spend too much time: Painting, acting (for my friends)",
+        "Speaks English",
+        "Pets: 4 cats, Ray Alex Wart & Irving St. John"
+      ]
+    },
+    "detailHTML": "Fresh from headlining festivals and my European tour, I’m bringing my very special show directly to you in an intimate living room environment. Music is my passion, I can’t wait to share that piece of my world with you in a way you’ll never forget. Kick it with me, and my cats. More details coming soon."
+  },
+  {
+    "itemId": 4,
+    "icons": "true",
+    "title": "Stay in Prince’s Purple Rain house",
+    "host": " Hosted by Wendy and Lisa",
+    "otherInfo": "Coming October",
+    "imgUrl": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA4OTQ5ODA0MDcwMTE4Mw%3D%3D/original/4f7a276e-9995-4b32-bda6-300de0619b25.png?im_w=1440&im_q=highq"
+    ]
+  },
+  {
+    "itemId": 5,
+    "icons": "true",
+    "title": "Train at the X-Mansion",
+    "host": "Hosted by Jubilee",
+    "otherInfo": "Booking Closed",
+    "imgUrl": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjIzMTk3NDU3MjE4Nzg2NA%3D%3D/original/f4cbe542-3ce0-4c6f-a8f1-d2120c1b2420.jpeg?im_w=1440&im_q=highq"
+    ]
+  }
+]
