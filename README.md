@@ -152,51 +152,7 @@ Response:
         "title": "Jasper",
         "text": "Mountain lodge rentals"
       },
-      {
-        "id": "8",
-        "title": "Victoria",
-        "text": "Historic home rentals"
-      },
-      {
-        "id": "9",
-        "title": "Montreal",
-        "text": "City apartment rentals"
-      },
-      {
-        "id": "10",
-        "title": "Quebec City",
-        "text": "Charming cottage rentals"
-      },
-      {
-        "id": "11",
-        "title": "Toronto",
-        "text": "Luxury condo rentals"
-      },
-      {
-        "id": "12",
-        "title": "Ottawa",
-        "text": "Penthouse rentals"
-      },
-      {
-        "id": "13",
-        "title": "Calgary",
-        "text": "Modern loft rentals"
-      },
-      {
-        "id": "14",
-        "title": "Edmonton",
-        "text": "Spacious townhouse rentals"
-      },
-      {
-        "id": "15",
-        "title": "Halifax",
-        "text": "Seaside cottage rentals"
-      },
-      {
-        "id": "16",
-        "title": "Winnipeg",
-        "text": "Cozy cabin rentals"
-      }
+      // ...
     ]
   },
   // ...
