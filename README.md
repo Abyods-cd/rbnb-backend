@@ -18,7 +18,7 @@ This project is the backend implementation for Rbnb, a platform inspired by Airb
 * Flask-CORS: A Flask extension for handling Cross-Origin Resource Sharing (CORS).
 * Python 3.7+
 
-## Four API Endpoints
+## 4 API Endpoints
 ### Tabs
 * GET /api/tabs - Retrieve all tabs.
 
