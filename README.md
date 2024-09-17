@@ -1,5 +1,5 @@
 # Rbnb's Backend
-## 🏠Using Flask and PostgreSQL to realize Rbnb's backend functions.
+## 🏠Used Flask and PostgreSQL to realize Rbnb's backend functions.
 ## Introduction
 This project is the backend implementation for Rbnb, a platform inspired by Airbnb. It provides RESTful API endpoints to support frontend functionalities such as displaying tabs, icons, and other resources.
 
