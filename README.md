@@ -10,7 +10,7 @@ This project is the backend implementation for Rbnb, a platform inspired by Airb
 * Cross-Origin Resource Sharing (CORS) enabled
 * Error handling and input validation
 
-## Technologies Used
+## Tech Stack
 * Flask: A lightweight WSGI web application framework for Python.
 * PostgreSQL: An advanced open-source relational database.
 * SQLAlchemy: An ORM for Python to interact with the database.
