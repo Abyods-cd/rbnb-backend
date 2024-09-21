@@ -69,10 +69,10 @@ def load_icons_data():
     with open('data/icons.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
         for item in data:
-            # 处理布尔值
+            # handle icons value
             icons_value = item.get('icons', 'false').lower() == 'true'
 
-            # 处理主机信息
+            # handle host info
             host_field = item.get('host', {})
             if isinstance(host_field, dict):
                 # when host is dict type
